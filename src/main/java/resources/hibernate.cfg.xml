@@ -19,6 +19,6 @@
 
         <!--   Mapping entity file -->
         <mapping class="com.hib.model.User"/>
-
+        <mapping class="com.hib.model.Employee"/>
     </session-factory>
 </hibernate-configuration>
